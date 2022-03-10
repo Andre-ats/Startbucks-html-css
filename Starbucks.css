@@ -1,0 +1,495 @@
+body{
+
+    font-family: 'SoDo Sans',Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin:0px;
+
+}
+.cabecalho-inteiro-barra{
+
+    width:1920px;
+    height:99px;
+    border-bottom:black 1px solid ;
+    position: fixed;
+    background-color:white;
+    
+
+}
+.cabecalho-dentro-barra{
+
+    width:1835px;
+    height:99px;
+    margin:0 auto 0 auto;
+    
+
+}
+.cabecalho-dentro-esquerda-barra{
+
+    width:533px;
+    height:99px;
+   
+    float:left;
+
+}
+.cabecalho-dentro-meio-barra{
+
+    width:569px;
+    height:99px;
+   
+    float:left;
+
+
+}
+.cabecalho-dentro-direita-barra{
+
+    width:733px;
+    height:99px;
+   
+    float:right;
+
+
+}
+.cabecalho-imagem-starbucks{
+
+    width:51px;
+    height:51px;
+    margin-top:23px;
+    margin-bottom:25px;
+
+}
+.cabecalho-div-logo-starbucks{
+
+    width:51px;
+    height:99px;
+  
+
+
+}
+.cabecalho-div-lista-itens{
+
+    list-style:none;   
+    display:flex;
+    width:442px;
+    float:right;
+    margin-top:44px;
+    margin-bottom:39px;
+    
+    
+
+}
+.cabecalho-div-lista-itens li{
+
+    margin-left:15px;
+    font-size:13px;
+    
+
+}
+.cabecalho-href-texto-esquerda{
+
+    text-decoration:none;
+    color:black;
+    
+
+}
+
+
+.cabecalho-dentro-direita-botao{
+
+    width:112px;
+    float:right;
+    margin-top:41px;
+    margin:34px 0px 34px 15px;
+    border-radius:50px;
+    background-color:black;
+    color:white;
+    height:32px;
+    
+
+}
+.cabecalho-dentro-direita-botao-2{
+
+    width:70px;
+    float:right;
+    margin:34px 0px 34px 0px;
+    margin-left:20px;
+    border-radius:50px;
+    height:32px;
+     
+
+}
+.cabecalho-dentro-direita-localizacaodeloja{
+
+    float:right;
+    margin:32px 0px 26px 0px;
+    margin-left:0px;
+    height:32px;
+    padding:5px;
+    font-size:20px;
+      
+
+}
+.cabecalho-dentro-direita-localizacao-emoji{
+
+    height:23px;
+    width:23px;
+    margin:39px 0px 37px 20px;
+    float:right;
+    
+
+}
+.cabecalho-dentro-direita-imagem-starbucks-historias{
+
+    width:120px;
+    height:48px;
+    margin:27px 0px 24px 0px;
+    float:right;
+
+
+}
+.text-decoration{
+  
+    text-decoration:none;
+    
+
+}
+.text-decoration-white{
+
+    text-decoration:none;
+
+}
+.cabecalho-dentro-direita-botao, .text-decoration-white{
+
+    color:white;
+
+}
+.cabecalho-href-texto-esquerda, .text-decoration{
+
+    color:black;
+
+}
+
+
+
+
+
+.container-imagens-produtos-inteiro{
+
+    width:1920px;
+    height:420px;
+
+}
+.container-imagens-produtos-dentro{
+
+    width:1440px;
+    height:420px;
+    margin:0 auto 0 auto;
+
+}
+
+
+
+
+.container-saiba-mais-inteiro{
+
+    width:1920px;
+    height:190px;
+    margin-top:32px;
+
+}
+.container-saiba-mais-dentro{
+
+    width:1440px;
+    height:150px;
+    background-color:#d4e9e2;
+    margin:0px auto 0px auto;
+    font-size:20px;
+    text-align:center;
+    padding-top:40px;
+    
+
+}
+.container-saiba-mais-botao{
+
+    margin:40px 665px 0 665px;
+    width:110px;
+    border-radius:50px;
+    background-color:#d4e9e2;
+    height:35px;
+
+}
+
+
+
+
+
+
+.container-segurando-copo-starbucks-inteiro{
+
+    width:1920px;
+    height:619px;
+    margin-top:32px;
+
+}
+.container-segurando-copo-starbucks-dentro{
+
+    width:1440px;
+    height: 619px;
+    margin:0px auto 0px auto;
+    
+
+}
+.container-segurando-copo-starbucks-dentro-esquerda-foto{
+
+    width:720px;
+    height:619px;
+    float:left;
+
+}
+.container-segurando-copo-starbucks-dentro-direita-texto{
+
+    width:720px;
+    height:619px;
+    background-color:#d4e9e2;
+    float:right;
+
+}
+.container-segurando-copo-starbucks-dentro-direita-texto-div{
+
+    margin:100px 0 100px 0;
+
+}
+.container-segurando-copo-starbucks-dentro-direita-texto-tag-p{
+
+    font-size:20px;
+    text-align: center;
+    line-height:32px;
+
+}
+.container-segurando-copo-starbucks-dentro-direita-texto-tag-h1{
+
+    font-size:25px;
+    text-align:center;
+
+}
+.container-segurando-copo-starbucks-dentro-direita-texto-tag-botao{
+
+    margin:30px 185px 0 185px;
+    background-color:#d4e9e2;
+    border-radius:50px;
+    height:35px;
+    width:350px;
+
+}
+
+
+
+
+
+
+.container-copo-sabores-starbucks-inteiro{
+
+    width:1920px;
+    height:420px;
+    margin-top:32px;
+
+}
+.container-copo-sabores-starbucks-dentro{
+
+    width:1440px;
+    height:420px;
+    margin:0px auto 0px auto;
+
+}
+.container-copo-sabores-starbucks-dentro-esquerdo{
+
+    width:720px;
+    height: 420px;
+    background-color:#d4e9e2;
+    float:left;
+
+}
+.container-copo-sabores-starbucks-dentro-direito{
+
+    width:720px;
+    height: 420px;
+    float:right;
+
+}
+.container-copo-sabores-starbucks-dentro-direito-imagem{
+
+    width:720px;
+    height:420px;
+    
+
+}
+.container-copo-sabores-dentro-esquerda-texto-tag-botao{
+
+    margin:30px 305px 0 305px;
+    background-color:#d4e9e2;
+    border-radius:50px;
+    height:35px;
+    width:110px;
+
+}
+
+
+
+.container-carregando-caixas-inteiro{
+
+    width:1920px;
+    height:420px;
+    margin-top:32px;
+    margin-bottom:32px;
+}
+.container-carregando-caixas-dentro{
+
+    width:1440px;
+    height:420px;
+    margin:0 auto 0 auto;
+
+}
+.container-carregando-caixas-dentro-esquerdo{
+
+    width:720px;
+    height:420px;
+    float:left;
+
+}
+.container-carregando-caixas-dentro-direito{
+
+    width:720px;
+    height:420px;
+    background-color:#d4e9e2;
+    float:right;
+
+}
+.container-carregando-caixas-dentro-esquerdo-imagem{
+
+    width:720px;
+    height:420px;
+
+}
+
+
+
+
+.rodape-inteiro{
+
+    width:1920px;
+    height: 648px;
+    margin-top:32px;
+    border-top:1px black solid;
+
+}
+.rodape-dentro{
+
+    width:1743px;
+    height:568px;
+    margin:30px auto 0 auto;
+
+}
+.rodape-dentro-1{
+
+    height:301px;
+    width:180px;
+    float:left;
+    margin-right:30px;
+
+}
+.rodape-dentro-1-maior{
+
+    height:301px;
+    width:200px;
+    float:left;
+    margin-right:30px;
+
+}
+.rodape-parte-texto{
+
+    width:1743px;
+    height:360px;
+    border-bottom:black 1px solid;
+
+}
+.rodape-ul{
+
+    text-decoration:none;
+    list-style:none;
+    padding:0px;
+
+}
+.rodape-li{
+
+    font-size:15px;
+    
+
+}
+.rodape-h1{
+
+    font-size:20px;
+    margin-bottom:30px;
+
+}
+.href {
+
+    list-style: none;
+    text-decoration:none;
+    color:black;
+    display:flex ;
+
+}
+.rodape-parte-baixo-1{
+
+    width:1743px;
+    height:58px;
+    margin-top:32px;
+
+}
+.rodape-parte-baixo-2{
+
+    width:1743px;
+    height:36px;
+    margin-top:7px;
+
+}
+.rodape-parte-baixo-3{
+
+    width:1743px;
+    height:67px;
+    margin-top:7px;
+    padding-left:0px;
+
+}
+.rodape-imagem-redes-sociais{
+
+    list-style: none;
+    text-decoration:none;
+    color:black;
+    display:flex ;
+    
+
+}
+.rodape-imagem-redes-sociais, li {
+
+    margin-right:17px;
+    padding-left:0px;
+
+}
+.rodape-politica-texto{
+
+    list-style: none;
+    text-decoration:none;
+    color:black;
+    display:flex ;
+    padding-left:0px;
+
+}
+.rodape-politica-texto-borda{
+
+    list-style: none;
+    text-decoration:none;
+    color:black;
+    display:flex ;
+    border-left:black 1px solid;
+    padding-left:14px;
+
+}
